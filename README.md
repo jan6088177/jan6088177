@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @jan6088177
+# 👋 Hi, I’m KHAN
 
 Hey there! 👇 Here's a ready-to-use profile summary you can place on your GitHub profile or in your project documentation:
 
