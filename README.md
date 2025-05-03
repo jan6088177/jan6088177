@@ -1,17 +1,14 @@
 # 👋 Hi, I’m KHAN
 
-Hey there! 👇 Here's a ready-to-use profile summary you can place on your GitHub profile or in your project documentation:
 
----
-
-## 👀 I’m interested in ...
+## 👀 I’m interested in AI agents and automation...
 - **Building AI-powered automation tools**
 - **Email classification and lead scoring systems**
 - **Streamlit dashboards** for real-time data visualization
 - **Python-based agents** that interact with users autonomously
 - **Natural language processing (NLP)** for email analysis
 
-I love creating smart bots that handle repetitive tasks — especially when they involve emails, lead qualification, and auto-replies.
+I love creating smart bots, AI agents and automation that handle repetitive tasks — especially when they involve emails, lead qualification, and auto-replies.
 
 ---
 
